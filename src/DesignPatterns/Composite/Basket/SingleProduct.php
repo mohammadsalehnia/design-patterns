@@ -1,6 +1,6 @@
 <?php
 
-namespace Src\DesignPatterns\Basket;
+namespace Src\DesignPatterns\Composite\Basket;
 
 class SingleProduct implements ProductItem
 {
