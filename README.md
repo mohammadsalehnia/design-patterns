@@ -1,6 +1,6 @@
 # Laravel Design Patterns Examples
 
-Welcome to the Laravel Design Patterns Examples repository! This repository is dedicated to practicing and learning design patterns within the Laravel 10 framework. Here you will find various design pattern implementations and examples specifically tailored for Laravel projects. There are also some examples for learning design patterns in general.
+Welcome to the Laravel Design Patterns Examples repository! This repository is a personal project for practicing and learning design patterns within the Laravel 10 framework. Here you will find some design pattern implementations and examples specifically tailored for Laravel projects, as well as some general design pattern examples.
 
 ## Table of Contents
 
